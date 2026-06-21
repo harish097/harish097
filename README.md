@@ -66,7 +66,7 @@
 
 <br/>
 
-<img src="<img src="https://github-profile-trophy-fork-two.vercel.app/?username=harish097&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />" alt="Trophies" />
+<img src="<img src="https://github-profile-trophy-fork-two.vercel.app/?username=harish097&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
 
 </div>
 
