@@ -55,8 +55,6 @@
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![monday.com](https://img.shields.io/badge/monday.com-FF3D57?style=for-the-badge&logo=mondaydotcom&logoColor=white)
 
-> 💡 Delete any badges you don't use, and add your own from [shields.io](https://shields.io) or [simpleicons.org](https://simpleicons.org).
-
 ---
 
 ## 📊 GitHub Stats
@@ -64,13 +62,18 @@
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=harish097&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<br/>
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish097&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harish097&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br/>
+</div>
+
+<div align="center">
 
 <img src="https://github-profile-trophy-fork-two.vercel.app/?username=harish097&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
 
