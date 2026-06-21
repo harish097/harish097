@@ -2,11 +2,11 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+%5BBalasubramaniam+Theetharappan%5D+%F0%9F%91%8B;AI+Engineer+%7C+Product+Owner;Building+intelligent%2C+real-world+solutions;Where+data+meets+creativity+%26+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Balasubramaniam+Theetharappan+%F0%9F%91%8B;AI+Engineer+%7C+Product+Owner;Building+intelligent%2C+real-world+solutions;Where+data+meets+creativity+%26+impact" alt="Typing SVG" />
 </a>
 
 <!-- Visitor counter -->
-<img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=harish097&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" />
 
 </div>
 
@@ -20,7 +20,7 @@
 - 🌱 Currently learning **[e.g., LLMs, MLOps, product strategy]**
 - 💡 Exploring the intersection of **AI, product thinking & real-world impact**
 - 🎯 2026 goal: **[e.g., ship an AI product end-to-end]**
-- ⚡ Fun fact: **eveling up my pickleball game 🏓 — and dreaming bigger with plans to launch a film distribution company 🎬 and an airline ✈️ one day.**
+- ⚡ Fun fact: **Leveling up my pickleball game 🏓 — and dreaming bigger with plans to launch a film distribution company 🎬 and an airline ✈️ one day.**
 
 ---
 
@@ -57,16 +57,16 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=[harish097]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[harish097]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=harish097&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish097&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[harish097]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harish097&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=[harish097]&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=harish097&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
 
 </div>
 
@@ -87,10 +87,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[https://www.linkedin.com/in/balasubramaniam-theetharappan-b22a1612a/])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[harishtheetharappan123@gmail.com])
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://[still-in-progress])
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/[https://x.com/home])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balasubramaniam-theetharappan-b22a1612a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishtheetharappan123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
 
 </div>
 
