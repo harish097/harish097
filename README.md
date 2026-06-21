@@ -90,7 +90,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balasubramaniam-theetharappan-b22a1612a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishtheetharappan123@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/home)
 
 </div>
 
