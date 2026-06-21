@@ -57,16 +57,16 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=[harish097]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[harish097]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[harish097]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=[your-username]&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=[harish097]&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
 
 </div>
 
@@ -87,10 +87,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-handle])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your.email@example.com])
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://[your-portfolio-link])
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/[your-handle])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[https://www.linkedin.com/in/balasubramaniam-theetharappan-b22a1612a/])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[harishtheetharappan123@gmail.com])
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://[still-in-progress])
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/[https://x.com/home])
 
 </div>
 
